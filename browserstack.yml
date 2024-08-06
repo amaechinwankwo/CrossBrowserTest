@@ -1,0 +1,17 @@
+
+userName: danielamaechinwa_2Ug7tY
+accessKey: rbvopdUmZXibRpEhHdoy
+framework: testng
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 104.0
+  - os: Windows
+    osVersion: 10
+    browserName: Firefox
+    browserVersion: 102.0
+  - os: OS X
+    osVersion: Monterey
+    browserName: Chrome
+    browserVersion: latest
